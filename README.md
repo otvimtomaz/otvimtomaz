@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fweheartit.com%2Fcmaeeeuh%2Fcollections%2F127644793-headers-quotes&psig=AOvVaw1-fz58fKwYPp80Fez-edpt&ust=1666047925826000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjcq6Hu5foCFQAAAAAdAAAAABAm)](https://otvimtomaz.io)
+[![MasterHead](2wCEAAoHCBYWFRgWFRUYGBgaGhgcHBwaGhgZGhgcGhwaGRocGhocIS4lHB4rIRgaJjgnKy80NTY1GiQ7QDszPy40NTEBDAwMEA8QHxISHzQsJSw1NDQ0NjQ0NDQ0NDQ0NDQ0NDQ0NDo0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP](https://otvimtomaz.io)
 <h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗵𝗼 𝗺𝘆 𝘄𝗼𝗿𝗹𝗱 🐍</h1>
  <img
       align="right"
