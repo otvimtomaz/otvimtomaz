@@ -1,4 +1,4 @@
-[![MasterHead](https://p.favim.com/orig/2018/07/27/twitter-header-red-rose-Favim.com-6072687.jpg)](https://otvimtomaz.io)
+[![MasterHead](https://i.pinimg.com/originals/17/1b/f2/171bf2bfcc83433f1f8d4098bd06f9e9.png)](https://otvimtomaz.io)
 <h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗵𝗼 𝗺𝘆 𝘄𝗼𝗿𝗹𝗱 🐍</h1>
  <img
       align="right"
