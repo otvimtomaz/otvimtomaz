@@ -1,5 +1,5 @@
 [![MasterHead](2wCEAAoHCBYWFRgWFRUYGBgaGhgcHBwaGhgZGhgcGhwaGRocGhocIS4lHB4rIRgaJjgnKy80NTY1GiQ7QDszPy40NTEBDAwMEA8QHxISHzQsJSw1NDQ0NjQ0NDQ0NDQ0NDQ0NDQ0NDo0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP)](https://otvimtomaz.io)
-<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗵𝗼 𝗺𝘆 𝘄𝗼𝗿𝗹𝗱 🐍</h1>
+<h1 align="center">Ｈｅｌｌｏ <𝖒𝖞> Ｗｏｒｌｄ</h1>
  <img
       align="right"
       alt="Coding"
@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🦔 𝘌𝘴𝘵𝘶𝘥𝘢𝘯𝘵𝘦 **Analise e Desemvolvimento de Sistemas, OneBit Code.**
+- 🦔 𝘌𝘴𝘵𝘶𝘥𝘢𝘯𝘵𝘦 **Sistemas para Internet, FATEC - JALES.**
+
+- 🦔 𝐹𝑜𝓇𝓂𝒶𝒹𝑜 ** Desenvolvimentos de Sistemas, - ETEC - JALES.**
 
 - 📫 𝘊𝘰𝘯𝘵𝘢𝘵𝘰: **tvimprojects@gmail.com**
 
